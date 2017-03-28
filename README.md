@@ -22,7 +22,7 @@ References to using Audio in Unity projects
 
 ## Advanced Guide
 
-### 1. [Basic Netowrking](Basic-Networking/README.md)
+### 1. [Basic Networking](Basic-Networking/README.md)
 
 Guide to doing a basic networked, multiplayer game. 
 
