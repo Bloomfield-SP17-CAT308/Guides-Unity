@@ -20,6 +20,12 @@ A guide to some of the basics in Unity Scripting.
 
 References to using Audio in Unity projects
 
+## Advanced Guide
+
+### 1. [Basic Netowrking](Basic-Networking/README.md)
+
+Guide to doing a basic networked, multiplayer game. 
+
 ## References:
 
 ### 1. [C# Primer](CSharp-Primer/README.md)
